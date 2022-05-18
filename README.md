@@ -4,7 +4,7 @@
 
 
 <h2 align="center">Hi there!✌🏼</h2>
-<p align="center">
+<p align="center" style="font-size:120%">
   <samp>My name is Alex, I'm from Moscow! I am 24 years old <br> <br> I am a Fullstack JavaScript developer. <br>
   Love programming, animals, sports, music.
   </samp>
@@ -14,11 +14,11 @@
 
 <h2 align="center">My projects 👨‍💻</h2>
 
-<p align="center">
-  <samp>Check out my projects: <a href="https://github.com/gard65/cartWeb" target="_blank">Попутка</a>
+<p align="center" style="font-size:120%">
+  <samp>Check out my projects: <a href="https://github.com/gard65/cartWeb" target="_blank" style="font-size:130%">Попутка</a>
   </samp>
   <br> <br>
-  <samp>Check out my projects: <a href="https://github.com/gard65/telegram_News" target="_blank">Telegram Bot</a>
+  <samp>Check out my projects: <a href="https://github.com/gard65/telegram_News" target="_blank" style="font-size:130%">Telegram Bot</a>
   </samp>
   <br> <br>
 </p>
