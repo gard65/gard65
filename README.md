@@ -29,9 +29,11 @@
 
 <p align="center" align='right'>
   <a target="_blank" href="mailto:sanegk@gmail.com"><img
-    src="https://img.shields.io/badge/@mail-20232A?style=for-the-badge&logo=@"/></a>&nbsp;&nbsp;&nbsp;
+    src="https://img.shields.io/badge/@mail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://t.me/gard_65"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://vk.com/alexdev134"><img
+    src="https://img.shields.io/badge/Vkontakte-20232A?style=for-the-badge&logo=Vk&logoColor=4F7DB3"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
