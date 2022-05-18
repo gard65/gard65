@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/gard65/gard65/blob/main/assets/giphy.gif" alt="header"  style="width:1000px; height: 600px"/>
+  <img src="https://github.com/gard65/gard65/blob/main/assets/giphy.gif" alt="header"  style="width:1000px; height: 800px"/>
 </div>
 
 
