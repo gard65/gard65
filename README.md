@@ -5,8 +5,8 @@
 
 <h2 align="center">Hi there!✌🏼</h2>
 <p align="center">
-  <samp>My name is Alex, I'm from Moscow! <br> <br> I am a Fullstack JavaScript developer. <br>
-  Love programming.
+  <samp>My name is Alex, I'm from Moscow! I am 24 years old <br> <br> I am a Fullstack JavaScript developer. <br>
+  Love programming, animals, sports, music.
   </samp>
   <br> <br>
 </p>
