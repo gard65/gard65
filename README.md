@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/T1mur-cod/T1mur-cod/blob/master/assets/giphy.gif" alt="header"/>
+  <img src="https://github.com/gard65/gard65/blob/main/assets/giphy.gif" alt="header"/>
 </div>
 
 
